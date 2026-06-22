@@ -4,4 +4,4 @@ Este é um repositório onde vamos iniciar os trabalhos com o git fazendo o prim
 
 
 ## Adicionando um texto 
-Aqui vem um exemplo de como adicionamos um texto ao nosso readme.
+Aqui vem um exemplo de como adicionamos o texto ao nosso readme. 
